@@ -4,4 +4,4 @@ This repository contains the course materials for the Google Prompting Essential
 
 ## Certificate of Completion
 
-![Google Prompting Essentials Certificate](https://github.com/engomaressam/google-prompting-essentials/blob/main/Google%20Prompting%20Essentials%20Specialization%20-%20Coursera%2064T0XNQGT3C1.png)
+![Google Prompting Essentials Certificate](Google Prompting Essentials Specialization - Coursera 64T0XNQGT3C1.png)
